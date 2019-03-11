@@ -1,0 +1,47 @@
+{
+    "name" : "National Homebrew Contest",
+    "children" :[
+        {
+            "name" : 2011, 
+            "children" : [
+                {
+                    "name" : "Category 1 : Light Lager",
+                    "value" : 191
+                },
+                {
+                    "name" : "Category 2 : Pilsner",
+                    "value" : 215
+                },
+                {
+                    "name" : "Category 3 : European Amber Lager",
+                    "value" : 140
+                },
+                {
+                    "name" : "Category 4 : Dark Lager",
+                    "value" : 171
+                }
+            ]
+        },
+        {
+            "name": 2004,
+            "children": [
+                {
+                    "name" : "Category 1 : American Lager",
+                    "value" : 133
+                },
+                {
+                    "name" : "Category 2 : European Pale Lager",
+                    "value" : 225
+                },
+                {
+                    "name" : "Category 3 : Light Ale",
+                    "value" : 129
+                },
+                {
+                    "name" : "Category 4 : Bitter & English Pale Ale",
+                    "value" : 237
+                }
+            ]
+        }
+    ]
+}

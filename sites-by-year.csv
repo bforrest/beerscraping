@@ -1,4 +1,298 @@
-{'2018': [{'id': '13', 'name': 'Portland, CO'}, {'id': '1', 'name': 'Austin, TX'}, {'id': '2', 'name': 'Chicago, IL'}, {'id': '3', 'name': 'Denver, CO'}, {'id': '4', 'name': 'Indianapolis, IN'}, {'id': '6', 'name': 'Kansas City, MO'}, {'id': '5', 'name': 'Minneapolis, MN'}, {'id': '7', 'name': 'New York City, NY'}, {'id': '8', 'name': 'Philadelphia, PA'}, {'id': '9', 'name': 'Portland, OR'}, {'id': '10', 'name': 'Sacramento, CA'}, {'id': '11', 'name': 'San Diego, CA'}, {'id': '12', 'name': 'Tampa, FL'}], '2017': [{'id': '13', 'name': 'Minneapolis, MN'}, {'id': '9', 'name': 'Austin, TX'}, {'id': '10', 'name': 'Chicago, IL'}, {'id': '12', 'name': 'Denver, CO'}, {'id': '1', 'name': 'Indianapolis, IN'}, {'id': '8', 'name': 'Milwaukee, WI'}, {'id': '4', 'name': 'New York, NY'}, {'id': '7', 'name': 'Philadelphia, PA'}, {'id': '11', 'name': 'Sacramento, CA'}, {'id': '6', 'name': 'San Diego, CA'}, {'id': '3', 'name': 'Seattle, WA'}, {'id': '5', 'name': 'St Louis, MO'}, {'id': '2', 'name': 'Tampa, FL'}], '2016': [{'id': '13', 'name': 'Baltimore, MD'}, {'id': '1', 'name': 'Austin, TX'}, {'id': '2', 'name': 'Chicago, IL'}, {'id': '3', 'name': 'Denver, CO'}, {'id': '4', 'name': 'Indianapolis, IN'}, {'id': '5', 'name': 'Nashville, TN'}, {'id': '6', 'name': 'New York City, NY'}, {'id': '7', 'name': 'Philadelphia, PA'}, {'id': '8', 'name': 'Sacramento, CA'}, {'id': '10', 'name': 'Saint Paul, MN'}, {'id': '11', 'name': 'San Diego, CA'}, {'id': '12', 'name': 'Seattle, WA'}, {'id': '9', 'name': 'St. Louis, MO'}], '2015': [{'id': '13', 'name': 'San Diego, CA'}, {'id': '1', 'name': 'Austin, TX'}, {'id': '10', 'name': 'Chicago, IL'}, {'id': '7', 'name': 'Denver, CO'}, {'id': '4', 'name': 'Nashville, TN'}, {'id': '5', 'name': 'New York City, NY'}, {'id': '9', 'name': 'Philadelphia, PA'}, {'id': '6', 'name': 'Sacramento, CA'}, {'id': '8', 'name': 'Saint Paul, MN'}, {'id': '12', 'name': 'San Diego, CA'}, {'id': '3', 'name': 'Seattle, WA'}, {'id': '2', 'name': 'St. Louis, MO'}, {'id': '11', 'name': 'Zanesville, OH'}], '2014': [{'id': '13', 'name': 'Grand Rapids, MI'}, {'id': '1', 'name': 'Austin, TX'}, {'id': '12', 'name': 'Chicago, IL'}, {'id':
-'10', 'name': 'Denver, CO'}, {'id': '2', 'name': 'Kansas City, MO'}, {'id': '3', 'name': 'Nashville, TN'}, {'id': '4', 'name':
-'New York City, NY'}, {'id': '9', 'name': 'Philadelphia, PA'}, {'id': '6', 'name': 'Sacramento, CA'}, {'id': '11', 'name': 'Saint Paul, MN'}, {'id': '7', 'name': 'San Diego, CA'}, {'id': '5', 'name': 'Seattle, WA'}, {'id': '8', 'name': 'Zanesville, OH'}], '2013': [{'id': '12', 'name': 'Philadelphia, PA'}, {'id': '9', 'name': 'Atlanta, GA'}, {'id': '4', 'name': 'Denver, CO'}, {'id': '6', 'name': 'Kansas City, MO'}, {'id': '8', 'name': 'Milwaukee, WI'}, {'id': '11', 'name': 'New York City, NY'}, {'id': '2', 'name': 'Pleasanton, CA'}, {'id': '7', 'name': 'Saint Paul, MN'}, {'id': '3', 'name': 'San Diego, CA'}, {'id': '1', 'name':
-'Seattle, WA'}, {'id': '5', 'name': 'Tulsa, OK'}, {'id': '10', 'name': 'Zanesville, OH'}], '2012': [{'id': '1', 'name': 'Seattle, WA'}], '2011': [{'id': '1', 'name': 'San Diego, CA'}], '2010': [{'id': '1', 'name': 'Minneapolis, MN'}], '2009': [{'id': '1', 'name': 'Oakland, CA'}], '2008': [{'id': '1', 'name': 'Cincinnati, OH'}], '2007': [{'id': '1', 'name': 'Denver, CO'}], '2006': [{'id': '1', 'name': 'Orlando, FL'}], '2005': [{'id': '1', 'name': 'Baltimore , MD'}], '2004': [{'id': '1', 'name': 'Las Vegas, NV'}], '2003': [{'id': '1', 'name': 'Chicago, IL'}]}
+{
+	'2018': [{
+			'id': '13',
+			'name': 'Portland, CO'
+		}, {
+			'id': '1',
+			'name': 'Austin, TX'
+		}, {
+			'id': '2',
+			'name': 'Chicago, IL'
+		}, {
+			'id': '3',
+			'name': 'Denver, CO'
+		}, {
+			'id': '4',
+			'name': 'Indianapolis, IN'
+		}, {
+			'id': '6',
+			'name': 'Kansas City, MO'
+		}, {
+			'id': '5',
+			'name': 'Minneapolis, MN'
+		}, {
+			'id': '7',
+			'name': 'New York City, NY'
+		}, {
+			'id': '8',
+			'name': 'Philadelphia, PA'
+		}, {
+			'id': '9',
+			'name': 'Portland, OR'
+		}, {
+			'id': '10',
+			'name': 'Sacramento, CA'
+		}, {
+			'id': '11',
+			'name': 'San Diego, CA'
+		}, {
+			'id': '12',
+			'name': 'Tampa, FL'
+		}
+	],
+	'2017': [{
+			'id': '13',
+			'name': 'Minneapolis, MN'
+		}, {
+			'id': '9',
+			'name': 'Austin, TX'
+		}, {
+			'id': '10',
+			'name': 'Chicago, IL'
+		}, {
+			'id': '12',
+			'name': 'Denver, CO'
+		}, {
+			'id': '1',
+			'name': 'Indianapolis, IN'
+		}, {
+			'id': '8',
+			'name': 'Milwaukee, WI'
+		}, {
+			'id': '4',
+			'name': 'New York, NY'
+		}, {
+			'id': '7',
+			'name': 'Philadelphia, PA'
+		}, {
+			'id': '11',
+			'name': 'Sacramento, CA'
+		}, {
+			'id': '6',
+			'name': 'San Diego, CA'
+		}, {
+			'id': '3',
+			'name': 'Seattle, WA'
+		}, {
+			'id': '5',
+			'name': 'St Louis, MO'
+		}, {
+			'id': '2',
+			'name': 'Tampa, FL'
+		}
+	],
+	'2016': [{
+			'id': '13',
+			'name': 'Baltimore, MD'
+		}, {
+			'id': '1',
+			'name': 'Austin, TX'
+		}, {
+			'id': '2',
+			'name': 'Chicago, IL'
+		}, {
+			'id': '3',
+			'name': 'Denver, CO'
+		}, {
+			'id': '4',
+			'name': 'Indianapolis, IN'
+		}, {
+			'id': '5',
+			'name': 'Nashville, TN'
+		}, {
+			'id': '6',
+			'name': 'New York City, NY'
+		}, {
+			'id': '7',
+			'name': 'Philadelphia, PA'
+		}, {
+			'id': '8',
+			'name': 'Sacramento, CA'
+		}, {
+			'id': '10',
+			'name': 'Saint Paul, MN'
+		}, {
+			'id': '11',
+			'name': 'San Diego, CA'
+		}, {
+			'id': '12',
+			'name': 'Seattle, WA'
+		}, {
+			'id': '9',
+			'name': 'St. Louis, MO'
+		}
+	],
+	'2015': [{
+			'id': '13',
+			'name': 'San Diego, CA'
+		}, {
+			'id': '1',
+			'name': 'Austin, TX'
+		}, {
+			'id': '10',
+			'name': 'Chicago, IL'
+		}, {
+			'id': '7',
+			'name': 'Denver, CO'
+		}, {
+			'id': '4',
+			'name': 'Nashville, TN'
+		}, {
+			'id': '5',
+			'name': 'New York City, NY'
+		}, {
+			'id': '9',
+			'name': 'Philadelphia, PA'
+		}, {
+			'id': '6',
+			'name': 'Sacramento, CA'
+		}, {
+			'id': '8',
+			'name': 'Saint Paul, MN'
+		}, {
+			'id': '12',
+			'name': 'San Diego, CA'
+		}, {
+			'id': '3',
+			'name': 'Seattle, WA'
+		}, {
+			'id': '2',
+			'name': 'St. Louis, MO'
+		}, {
+			'id': '11',
+			'name': 'Zanesville, OH'
+		}
+	],
+	'2014': [{
+			'id': '13',
+			'name': 'Grand Rapids, MI'
+		}, {
+			'id': '1',
+			'name': 'Austin, TX'
+		}, {
+			'id': '12',
+			'name': 'Chicago, IL'
+		}, {
+			'id':
+			'10',
+			'name': 'Denver, CO'
+		}, {
+			'id': '2',
+			'name': 'Kansas City, MO'
+		}, {
+			'id': '3',
+			'name': 'Nashville, TN'
+		}, {
+			'id': '4',
+			'name':
+			'New York City, NY'
+		}, {
+			'id': '9',
+			'name': 'Philadelphia, PA'
+		}, {
+			'id': '6',
+			'name': 'Sacramento, CA'
+		}, {
+			'id': '11',
+			'name': 'Saint Paul, MN'
+		}, {
+			'id': '7',
+			'name': 'San Diego, CA'
+		}, {
+			'id': '5',
+			'name': 'Seattle, WA'
+		}, {
+			'id': '8',
+			'name': 'Zanesville, OH'
+		}
+	],
+	'2013': [{
+			'id': '12',
+			'name': 'Philadelphia, PA'
+		}, {
+			'id': '9',
+			'name': 'Atlanta, GA'
+		}, {
+			'id': '4',
+			'name': 'Denver, CO'
+		}, {
+			'id': '6',
+			'name': 'Kansas City, MO'
+		}, {
+			'id': '8',
+			'name': 'Milwaukee, WI'
+		}, {
+			'id': '11',
+			'name': 'New York City, NY'
+		}, {
+			'id': '2',
+			'name': 'Pleasanton, CA'
+		}, {
+			'id': '7',
+			'name': 'Saint Paul, MN'
+		}, {
+			'id': '3',
+			'name': 'San Diego, CA'
+		}, {
+			'id': '1',
+			'name':
+			'Seattle, WA'
+		}, {
+			'id': '5',
+			'name': 'Tulsa, OK'
+		}, {
+			'id': '10',
+			'name': 'Zanesville, OH'
+		}
+	],
+	'2012': [{
+			'id': '1',
+			'name': 'Seattle, WA'
+		}
+	],
+	'2011': [{
+			'id': '1',
+			'name': 'San Diego, CA'
+		}
+	],
+	'2010': [{
+			'id': '1',
+			'name': 'Minneapolis, MN'
+		}
+	],
+	'2009': [{
+			'id': '1',
+			'name': 'Oakland, CA'
+		}
+	],
+	'2008': [{
+			'id': '1',
+			'name': 'Cincinnati, OH'
+		}
+	],
+	'2007': [{
+			'id': '1',
+			'name': 'Denver, CO'
+		}
+	],
+	'2006': [{
+			'id': '1',
+			'name': 'Orlando, FL'
+		}
+	],
+	'2005': [{
+			'id': '1',
+			'name': 'Baltimore , MD'
+		}
+	],
+	'2004': [{
+			'id': '1',
+			'name': 'Las Vegas, NV'
+		}
+	],
+	'2003': [{
+			'id': '1',
+			'name': 'Chicago, IL'
+		}
+	]
+}

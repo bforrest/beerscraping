@@ -54,7 +54,7 @@ def get_winners(year, siteId):
         print(category)
         print(entries)
         if entries is not None:
-            data = {'category': category.contents, 'entries': entries.text}
+            data = {'year': year, 'category': category.contents, 'entries': entries.text}
             localFrame = localFrame.append(pd.DataFrame(data))
         category = category.findNext("h3")
     return localFrame
@@ -70,15 +70,16 @@ def get_winners(year, siteId):
 #     data = {'year': year, 'sites': sites}
 #     contestSites = contestSites.from_dict(data)
 # print(contestYears)
-years = ['2014', '2015', '2016', '2017', '2018']
+#years = ['2014', '2015', '2016', '2017', '2018']
+years = [2011, 2010,2009,2008,2007,2006,2005,2004,2003]
 # contestSites.to_csv(os.path.join(os.path.join(PATH,"contest-sites-by-year.csv")), index=False)
 for year in years:
     #sites = contestYears[year]
-    results = results.append(get_winners(year, 13))
+    results = results.append(get_winners(year, 1))
 
 # for item in contestYears:
 #     for site in contestYears[item]:
 #         winners = get_winners(item, site['id'])
 
 #contestSites.to_csv(os.path.join(os.path.join(PATH,"contest-sites-by-year.csv")), index=False)
-results.to_csv(os.path.join(os.path.join(PATH,"2014-and-beyond-national-finals.csv")), index=False)
+results.to_csv(os.path.join(os.path.join(PATH,"2011-and-prior-national-finals.csv")), index=False)
