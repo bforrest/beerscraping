@@ -6,6 +6,8 @@ PATH = os.path.join("C:\\","Users","barry.forrest","Documents","Python Scripts")
 contestSites = pd.DataFrame()
 results = pd.DataFrame()
 
+entryRegex = re.compile(r"(\d+)")
+
 contestYears = {}
 
 mainUrl = "https://www.homebrewersassociation.org/national-homebrew-competition/winners/"
@@ -53,8 +55,11 @@ def get_winners(year, siteId):
         entries = category.find_next("cite")
         print(category)
         print(entries)
+        count = entryRegex.search( entries.text)
+        if(count != None): 
+            total = count[0]
         if entries is not None:
-            data = {'year': year, 'category': category.contents, 'entries': entries.text}
+            data = {'year': year, 'category': category.contents, 'value': total}
             localFrame = localFrame.append(pd.DataFrame(data))
         category = category.findNext("h3")
     return localFrame
@@ -71,7 +76,8 @@ def get_winners(year, siteId):
 #     contestSites = contestSites.from_dict(data)
 # print(contestYears)
 #years = ['2014', '2015', '2016', '2017', '2018']
-years = [2011, 2010,2009,2008,2007,2006,2005,2004,2003]
+#years = [2011, 2010,2009,2008,2007,2006,2005,2004,2003]
+years = [2012]
 # contestSites.to_csv(os.path.join(os.path.join(PATH,"contest-sites-by-year.csv")), index=False)
 for year in years:
     #sites = contestYears[year]
@@ -82,4 +88,4 @@ for year in years:
 #         winners = get_winners(item, site['id'])
 
 #contestSites.to_csv(os.path.join(os.path.join(PATH,"contest-sites-by-year.csv")), index=False)
-results.to_csv(os.path.join(os.path.join(PATH,"2011-and-prior-national-finals.csv")), index=False)
+results.to_csv(os.path.join(os.path.join(PATH,"2011-finals.csv")), index=False)

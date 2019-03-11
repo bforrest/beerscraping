@@ -1,4 +1,4 @@
-import csv
+import csv, json
 
 filename = "2012-national-finals.csv"
 
