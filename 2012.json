@@ -1,0 +1,116 @@
+{
+   "2012": [
+      {
+         "category": "Category 1 : Light Lager",
+         "value": 200
+      },
+      {
+         "category": "Category 2 : Pilsner",
+         "value": 237
+      },
+      {
+         "category": "Category 3 : European Amber Lager",
+         "value": 158
+      },
+      {
+         "category": "Category 4 : Dark Lager",
+         "value": 162
+      },
+      {
+         "category": "Category 5 : Bock",
+         "value": 195
+      },
+      {
+         "category": "Category 6 : Light Hybrid Beer",
+         "value": 303
+      },
+      {
+         "category": "Category 7 : Amber Hybrid Beer",
+         "value": 174
+      },
+      {
+         "category": "Category 8 : English Pale Ale",
+         "value": 265
+      },
+      {
+         "category": "Category 9 : Scottish and Irish Ale",
+         "value": 308
+      },
+      {
+         "category": "Category 10 : American Ale",
+         "value": 603
+      },
+      {
+         "category": "Category 11 : English Brown Ale",
+         "value": 198
+      },
+      {
+         "category": "Category 12 : Porter",
+         "value": 326
+      },
+      {
+         "category": "Category 13 : Stout",
+         "value": 630
+      },
+      {
+         "category": "Category 14 : India Pale Ale (IPA)",
+         "value": 553
+      },
+      {
+         "category": "Category 15 : German Wheat and Rye Beer",
+         "value": 237
+      },
+      {
+         "category": "Category 16 : Belgian and French Ale",
+         "value": 491
+      },
+      {
+         "category": "Category 17 : Sour Ale",
+         "value": 255
+      },
+      {
+         "category": "Category 18 : Belgian Strong Ale",
+         "value": 454
+      },
+      {
+         "category": "Category 19 : Strong Ale",
+         "value": 279
+      },
+      {
+         "category": "Category 20 : Fruit Beer",
+         "value": 169
+      },
+      {
+         "category": "Category 21 : Spice/Herb/Vegetable Beer",
+         "value": 362
+      },
+      {
+         "category": "Category 22 : Smoke-Flavored and Wood-Aged Beer",
+         "value": 335
+      },
+      {
+         "category": "Category 23 : Specialty Beer",
+         "value": 383
+      },
+      {
+         "category": "Category 24 : Traditional Mead",
+         "value": 106
+      },
+      {
+         "category": "Category 25 : Melomel (Fruit Mead)",
+         "value": 132
+      },
+      {
+         "category": "Category 26 : Other Mead",
+         "value": 97
+      },
+      {
+         "category": "Category 27 : Standard Cider and Perry",
+         "value": 115
+      },
+      {
+         "category": "Category 28 : Specialty Cider and Perry",
+         "value": 96
+      }
+   ]
+}

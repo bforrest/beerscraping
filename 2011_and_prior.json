@@ -1,0 +1,1300 @@
+{
+   "2003": [
+      {
+         "category": "Category 1 : American Lager",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 2 : European Pale Lager",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 3 : Light Ale",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 4 : Bitter & English Pale Ale",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 5 : Scottish Ales",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 6 : American Pale Ale",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 7 : India Pale Ale",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 8 : ",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 9 : German Amber Lager",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 10 : Brown Ale",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 11 : English & Scottish Strong Ale",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 12 : Barleywine & Imperial Stout",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 13 : European Dark Lager",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 14 : Bock",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 15 : Porter",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 16 : Stout",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 17 : Wheat Beer",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 18 : Strong Belgian Ale",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 19 : Belgian & French Ale",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 20 : Lambic & Belgian Sour Ale",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 21 : Fruit Beer",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 22 : Spice/Herb/Vegetable Beer",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 23 : Smoke-Flavored Beer",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 24 : Specialty/Experimental/Historical",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 25 : Traditional Mead",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 26 : Fruit Mead",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 27 : Herb & Spice",
+         "value": " Braggot and Mixed Mead",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 28 : Cider",
+         "value": "",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 29 : New Entrants",
+         "value": "",
+         "FIELD4": null
+      }
+   ],
+   "2004": [
+      {
+         "category": "Category 1 : American Lager",
+         "value": "133 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 2 : European Pale Lager",
+         "value": "225 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 3 : Light Ale",
+         "value": "129 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 4 : Bitter & English Pale Ale",
+         "value": "237 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 5 : Scottish Ales",
+         "value": "98 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 6 : American Pale Ale",
+         "value": "313 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 7 : India Pale Ale",
+         "value": "191 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 8 : ",
+         "value": "149 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 9 : German Amber Lager",
+         "value": "115 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 10 : Brown Ale",
+         "value": "219 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 11 : English & Scottish Strong Ale",
+         "value": "162 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 12 : Barleywine & Imperial Stout",
+         "value": "250 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 13 : European Dark Lager",
+         "value": "95 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 14 : Bock",
+         "value": "149 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 15 : Porter",
+         "value": "179 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 16 : Stout",
+         "value": "218 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 17 : Wheat Beer",
+         "value": "142 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 18 : Strong Belgian Ale",
+         "value": "236 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 19 : Belgian & French Ale",
+         "value": "167 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 20 : Lambic & Belgian Sour Ale",
+         "value": "110 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 21 : Fruit Beer",
+         "value": "83 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 22 : Spice/Herb/Vegetable Beer",
+         "value": "110 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 23 : Smoke-Flavored Beer",
+         "value": "75 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 24 : Specialty/Experimental/Historical",
+         "value": "169 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 25 : Traditional Mead",
+         "value": "106 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 26 : Fruit Mead",
+         "value": "144 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 27 : Herb & Spice",
+         "value": " Braggot and Mixed Mead",
+         "FIELD4": 85
+      },
+      {
+         "category": "Category 28 : Cider",
+         "value": "43 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 29 : New Entrants",
+         "value": "90 ",
+         "FIELD4": null
+      }
+   ],
+   "2005": [
+      {
+         "category": "Category 1 : Light Lager",
+         "value": "131 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 2 : Pilsner",
+         "value": "138 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 3 : European Amber Lager",
+         "value": "102 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 4 : Dark Lager",
+         "value": "77 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 5 : Bock",
+         "value": "118 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 6 : Light Hybrid Beer",
+         "value": "186 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 7 : Amber Hybrid Beer",
+         "value": "110 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 8 : English Pale Ale",
+         "value": "172 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 9 : Scottish and Irish Ale",
+         "value": "221 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 10 : American Ale",
+         "value": "270 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 11 : English Brown Ale",
+         "value": "89 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 12 : Porter",
+         "value": "190 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 13 : Stout",
+         "value": "305 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 14 : India Pale Ale (IPA)",
+         "value": "255 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 15 : German Wheat and Rye Beer",
+         "value": "121 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 16 : Belgian and French Ale",
+         "value": "197 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 17 : Sour Ale",
+         "value": "108 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 18 : Belgian Strong Ale",
+         "value": "218 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 19 : Strong Ale",
+         "value": "217 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 20 : Fruit Beer",
+         "value": "94 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 21 : Spice/Herb/Vegetable Beer",
+         "value": "144 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 22 : Smoke-Flavored and Wood-Aged Beer",
+         "value": "112 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 23 : Specialty Beer",
+         "value": "106 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 24 : Traditional Mead",
+         "value": "90 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 25 : Melomel (Fruit Mead)",
+         "value": "126 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 26 : Other Mead",
+         "value": "76 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 27 : Standard Cider and Perry",
+         "value": "27 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 28 : Specialty Cider and Perry",
+         "value": "34 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 29 : New Entrants",
+         "value": "94 ",
+         "FIELD4": null
+      }
+   ],
+   "2006": [
+      {
+         "category": "Category 1 : Light Lager",
+         "value": "136 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 2 : Pilsner",
+         "value": "153 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 3 : European Amber Lager",
+         "value": "126 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 4 : Dark Lager",
+         "value": "114 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 5 : Bock",
+         "value": "153 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 6 : Light Hybrid Beer",
+         "value": "184 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 7 : Amber Hybrid Beer",
+         "value": "115 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 8 : English Pale Ale",
+         "value": "179 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 9 : Scottish and Irish Ale",
+         "value": "212 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 10 : American Ale",
+         "value": "358 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 11 : English Brown Ale",
+         "value": "150 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 12 : Porter",
+         "value": "205 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 13 : Stout",
+         "value": "338 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 14 : India Pale Ale (IPA)",
+         "value": "270 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 15 : German Wheat and Rye Beer",
+         "value": "132 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 16 : Belgian and French Ale",
+         "value": "220 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 17 : Sour Ale",
+         "value": "98 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 18 : Belgian Strong Ale",
+         "value": "250 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 19 : Strong Ale",
+         "value": "160 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 20 : Fruit Beer",
+         "value": "98 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 21 : Spice/Herb/Vegetable Beer",
+         "value": "158 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 22 : Smoke-Flavored and Wood-Aged Beer",
+         "value": "104 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 23 : Specialty Beer",
+         "value": "162 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 24 : Traditional Mead",
+         "value": "100 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 25 : Melomel (Fruit Mead)",
+         "value": "131 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 26 : Other Mead",
+         "value": "99 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 27 : Standard Cider and Perry",
+         "value": "42 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 28 : Specialty Cider and Perry",
+         "value": "37 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 29 : New Entrants",
+         "value": "96 ",
+         "FIELD4": null
+      }
+   ],
+   "2007": [
+      {
+         "category": "Category 1 : Light Lager",
+         "value": "170 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 2 : Pilsner",
+         "value": "176 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 3 : European Amber Lager",
+         "value": "117 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 4 : Dark Lager",
+         "value": "129 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 5 : Bock",
+         "value": "164 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 6 : Light Hybrid Beer",
+         "value": "238 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 7 : Amber Hybrid Beer",
+         "value": "127 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 8 : English Pale Ale",
+         "value": "219 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 9 : Scottish and Irish Ale",
+         "value": "238 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 10 : American Ale",
+         "value": "388 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 11 : English Brown Ale",
+         "value": "133 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 12 : Porter",
+         "value": "236 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 13 : Stout",
+         "value": "366 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 14 : India Pale Ale (IPA)",
+         "value": "335 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 15 : German Wheat and Rye Beer",
+         "value": "167 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 16 : Belgian and French Ale",
+         "value": "298 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 17 : Sour Ale",
+         "value": "106 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 18 : Belgian Strong Ale",
+         "value": "281 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 19 : Strong Ale",
+         "value": "179 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 20 : Fruit Beer",
+         "value": "99 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 21 : Spice/Herb/Vegetable Beer",
+         "value": "173 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 22 : Smoke-Flavored and Wood-Aged Beer",
+         "value": "133 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 23 : Specialty Beer",
+         "value": "155 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 24 : Traditional Mead",
+         "value": "102 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 25 : Melomel (Fruit Mead)",
+         "value": "135 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 26 : Other Mead",
+         "value": "102 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 27 : Standard Cider and Perry",
+         "value": "47 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 28 : Specialty Cider and Perry",
+         "value": "39 ",
+         "FIELD4": null
+      }
+   ],
+   "2008": [
+      {
+         "category": "Category 1 : Light Lager",
+         "value": "170 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 2 : Pilsner",
+         "value": "155 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 3 : European Amber Lager",
+         "value": "105 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 4 : Dark Lager",
+         "value": "158 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 5 : Bock",
+         "value": "177 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 6 : Light Hybrid Beer",
+         "value": "248 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 7 : Amber Hybrid Beer",
+         "value": "150 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 8 : English Pale Ale",
+         "value": "222 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 9 : Scottish and Irish Ale",
+         "value": "234 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 10 : American Ale",
+         "value": "430 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 11 : English Brown Ale",
+         "value": "163 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 12 : Porter",
+         "value": "270 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 13 : Stout",
+         "value": "418 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 14 : India Pale Ale (IPA)",
+         "value": "332 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 15 : German Wheat and Rye Beer",
+         "value": "179 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 16 : Belgian and French Ale",
+         "value": "317 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 17 : Sour Ale",
+         "value": "141 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 18 : Belgian Strong Ale",
+         "value": "345 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 19 : Strong Ale",
+         "value": "232 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 20 : Fruit Beer",
+         "value": "114 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 21 : Spice/Herb/Vegetable Beer",
+         "value": "185 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 22 : Smoke-Flavored and Wood-Aged Beer",
+         "value": "165 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 23 : Specialty Beer",
+         "value": "186 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 24 : Traditional Mead",
+         "value": "124 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 25 : Melomel (Fruit Mead)",
+         "value": "148 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 26 : Other Mead",
+         "value": "107 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 27 : Standard Cider and Perry",
+         "value": "93 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 28 : Specialty Cider and Perry",
+         "value": "76 ",
+         "FIELD4": null
+      }
+   ],
+   "2009": [
+      {
+         "category": "Category 1 : Light Lager",
+         "value": "155 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 2 : Pilsner",
+         "value": "172 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 3 : European Amber Lager",
+         "value": "96 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 4 : Dark Lager",
+         "value": "136 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 5 : Bock",
+         "value": "155 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 6 : Light Hybrid Beer",
+         "value": "208 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 7 : Amber Hybrid Beer",
+         "value": "100 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 8 : English Pale Ale",
+         "value": "196 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 9 : Scottish and Irish Ale",
+         "value": "225 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 10 : American Ale",
+         "value": "364 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 11 : English Brown Ale",
+         "value": "141 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 12 : Porter",
+         "value": "226 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 13 : Stout",
+         "value": "374 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 14 : India Pale Ale (IPA)",
+         "value": "330 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 15 : German Wheat and Rye Beer",
+         "value": "164 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 16 : Belgian and French Ale",
+         "value": "334 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 17 : Sour Ale",
+         "value": "148 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 18 : Belgian Strong Ale",
+         "value": "322 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 19 : Strong Ale",
+         "value": "192 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 20 : Fruit Beer",
+         "value": "117 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 21 : Spice/Herb/Vegetable Beer",
+         "value": "208 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 22 : Smoke-Flavored and Wood-Aged Beer",
+         "value": "182 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 23 : Specialty Beer",
+         "value": "197 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 24 : Traditional Mead",
+         "value": "75 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 25 : Melomel (Fruit Mead)",
+         "value": "118 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 26 : Other Mead",
+         "value": "88 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 27 : Standard Cider and Perry",
+         "value": "69 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 28 : Specialty Cider and Perry",
+         "value": "73 ",
+         "FIELD4": null
+      }
+   ],
+   "2010": [
+      {
+         "category": "Category 1 : Light Lager",
+         "value": "174 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 2 : Pilsner",
+         "value": "183 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 3 : European Amber Lager",
+         "value": "145 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 4 : Dark Lager",
+         "value": "144 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 5 : Bock",
+         "value": "191 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 6 : Light Hybrid Beer",
+         "value": "246 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 7 : Amber Hybrid Beer",
+         "value": "152 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 8 : English Pale Ale",
+         "value": "187 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 9 : Scottish and Irish Ale",
+         "value": "247 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 10 : American Ale",
+         "value": "509 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 11 : English Brown Ale",
+         "value": "199 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 12 : Porter",
+         "value": "293 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 13 : Stout",
+         "value": "477 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 14 : India Pale Ale (IPA)",
+         "value": "387 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 15 : German Wheat and Rye Beer",
+         "value": "206 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 16 : Belgian and French Ale",
+         "value": "410 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 17 : Sour Ale",
+         "value": "163 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 18 : Belgian Strong Ale",
+         "value": "362 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 19 : Strong Ale",
+         "value": "216 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 20 : Fruit Beer",
+         "value": "130 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 21 : Spice/Herb/Vegetable Beer",
+         "value": "245 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 22 : Smoke-Flavored and Wood-Aged Beer",
+         "value": "226 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 23 : Specialty Beer",
+         "value": "275 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 24 : Traditional Mead",
+         "value": "88 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 25 : Melomel (Fruit Mead)",
+         "value": "143 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 26 : Other Mead",
+         "value": "114 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 27 : Standard Cider and Perry",
+         "value": "97 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 28 : Specialty Cider and Perry",
+         "value": "78 ",
+         "FIELD4": null
+      }
+   ],
+   "2011": [
+      {
+         "category": "Category 1 : Light Lager",
+         "value": " 191",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 2 : Pilsner",
+         "value": "215 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 3 : European Amber Lager",
+         "value": "140 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 4 : Dark Lager",
+         "value": "171 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 5 : Bock",
+         "value": "230 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 6 : Light Hybrid Beer",
+         "value": "272 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 7 : Amber Hybrid Beer",
+         "value": "157 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 8 : English Pale Ale",
+         "value": "256 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 9 : Scottish and Irish Ale",
+         "value": "257 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 10 : American Ale",
+         "value": "493 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 11 : English Brown Ale",
+         "value": "227 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 12 : Porter",
+         "value": "320 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 13 : Stout",
+         "value": "566 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 14 : India Pale Ale (IPA)",
+         "value": "462 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 15 : German Wheat and Rye Beer",
+         "value": "216 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 16 : Belgian and French Ale",
+         "value": "394 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 17 : Sour Ale",
+         "value": "204 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 18 : Belgian Strong Ale",
+         "value": "404 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 19 : Strong Ale",
+         "value": "252 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 20 : Fruit Beer",
+         "value": "143 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 21 : Spice/Herb/Vegetable Beer",
+         "value": "286 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 22 : Smoke-Flavored and Wood-Aged Beer",
+         "value": "289 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 23 : Specialty Beer",
+         "value": "346 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 24 : Traditional Mead",
+         "value": "84 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 25 : Melomel (Fruit Mead)",
+         "value": "132 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 26 : Other Mead",
+         "value": "103 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 27 : Standard Cider and Perry",
+         "value": "96 ",
+         "FIELD4": null
+      },
+      {
+         "category": "Category 28 : Specialty Cider and Perry",
+         "value": "90 ",
+         "FIELD4": null
+      }
+   ]
+}

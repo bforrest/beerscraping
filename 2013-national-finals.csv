@@ -1,29 +1,29 @@
-year,category,entries
-2013,Category 1 : Light Lager,"Sponsored by : Five Star Chemicals & Supply, Inc. 203 Entries"
-2013,Category 2 : Pilsner,Sponsored by : Seven Bridges Cooperative 209 Entries
-2013,Category 3 : European Amber Lager,Sponsored by : Brewers Publications 159 Entries
-2013,Category 4 : Dark Lager,Sponsored by : Briess Malt & Ingredients Co. 193 Entries
-2013,Category 5 : Bock,Sponsored by : Washington Hop Comission 216 Entries
-2013,Category 6 : Light Hybrid Beer,Sponsored by : Cargill World Select c/o Cargill Malt 343 Entries
-2013,Category 7 : Amber Hybrid Beer,Sponsored by : Grape & Granary 156 Entries
-2013,Category 8 : English Pale Ale,Sponsored by : St. Louis Wine & Beer Making 211 Entries
-2013,Category 9 : Scottish and Irish Ale,Sponsored by : Brew Brothers Homebrew Products 273 Entries
-2013,Category 10 : American Ale,Sponsored by : BJ's Restaurant & Brewhouse 598 Entries
-2013,Category 11 : English Brown Ale,Sponsored by : Alternative Beverage 215 Entries
-2013,Category 12 : Porter,Sponsored by : Deschutes Brewery 335 Entries
-2013,Category 13 : Stout,Sponsored by : Brew & Grow 576 Entries
-2013,Category 14 : India Pale Ale (IPA),"Sponsored by : S.S. Steiner, Inc. 584 Entries"
-2013,Category 15 : German Wheat and Rye Beer,Sponsored by : Widmer Brothers Brewing Company 194 Entries
-2013,Category 16 : Belgian and French Ale,Sponsored by : Port Brewing Company/The Lost Abbey 560 Entries
-2013,Category 17 : Sour Ale,Sponsored by : Captain Lawrence Brewing Co. 295 Entries
-2013,Category 18 : Belgian Strong Ale,Sponsored by : Dingemans c/o Cargill Malt 421 Entries
-2013,Category 19 : Strong Ale,Sponsored by : Northern Brewer 277 Entries
-2013,Category 20 : Fruit Beer,Sponsored by : High Gravity Homebrewing & Winemaking Supplies 181 Entries
-2013,Category 21 : Spice/Herb/Vegetable Beer,Sponsored by : Austin Homebrew Supply 311 Entries
-2013,Category 22 : Smoke-Flavored and Wood-Aged Beer,Sponsored by : Alaskan Brewing Co. 384 Entries
-2013,Category 23 : Specialty Beer,Sponsored by : The Hops Shack 359 Entries
-2013,Category 24 : Traditional Mead,Sponsored by : Moonlight Meadery 78 Entries
-2013,Category 25 : Melomel (Fruit Mead),Sponsored by : Moonlight Meadery 119 Entries
-2013,Category 26 : Other Mead,Sponsored by : Celestial Meads 93 Entries
-2013,Category 27 : Standard Cider and Perry,Sponsored by : Woodchuck Hard Cider 103 Entries
-2013,Category 28 : Specialty Cider and Perry,Sponsored by : Woodchuck Hard Cider  96 Entries
+year,category,value
+2013,Category 1 : Light Lager,203 
+2013,Category 2 : Pilsner,209 
+2013,Category 3 : European Amber Lager,159 
+2013,Category 4 : Dark Lager,193 
+2013,Category 5 : Bock,216 
+2013,Category 6 : Light Hybrid Beer,343 
+2013,Category 7 : Amber Hybrid Beer,156 
+2013,Category 8 : English Pale Ale,211 
+2013,Category 9 : Scottish and Irish Ale,273 
+2013,Category 10 : American Ale,598 
+2013,Category 11 : English Brown Ale,215 
+2013,Category 12 : Porter,335 
+2013,Category 13 : Stout,576 
+2013,Category 14 : India Pale Ale (IPA),584 
+2013,Category 15 : German Wheat and Rye Beer,194 
+2013,Category 16 : Belgian and French Ale,560 
+2013,Category 17 : Sour Ale,295 
+2013,Category 18 : Belgian Strong Ale,421 
+2013,Category 19 : Strong Ale,277 
+2013,Category 20 : Fruit Beer,181 
+2013,Category 21 : Spice/Herb/Vegetable Beer,311 
+2013,Category 22 : Smoke-Flavored and Wood-Aged Beer,384 
+2013,Category 23 : Specialty Beer,359 
+2013,Category 24 : Traditional Mead,78 
+2013,Category 25 : Melomel (Fruit Mead),119 
+2013,Category 26 : Other Mead,93 
+2013,Category 27 : Standard Cider and Perry,103 
+2013,Category 28 : Specialty Cider and Perry,96 
