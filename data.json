@@ -34,6 +34,753 @@
         {
             "name": "2011",
             "children": [{ "name": " 1 : Light Lager", "value": " 191" }, { "name": " 2 : Pilsner", "value": "215" }, { "name": " 3 : European Amber Lager", "value": "140" }, { "name": " 4 : Dark Lager", "value": "171" }, { "name": " 5 : Bock", "value": "230" }, { "name": " 6 : Light Hybrid Beer", "value": "272" }, { "name": " 7 : Amber Hybrid Beer", "value": "157" }, { "name": " 8 : English Pale Ale", "value": "256" }, { "name": " 9 : Scottish and Irish Ale", "value": "257" }, { "name": " 10 : American Ale", "value": "493" }, { "name": " 11 : English Brown Ale", "value": "227" }, { "name": " 12 : Porter", "value": "320" }, { "name": " 13 : Stout", "value": "566" }, { "name": " 14 : India Pale Ale (IPA)", "value": "462" }, { "name": " 15 : German Wheat and Rye Beer", "value": "216" }, { "name": " 16 : Belgian and French Ale", "value": "394" }, { "name": " 17 : Sour Ale", "value": "204" }, { "name": " 18 : Belgian Strong Ale", "value": "404" }, { "name": " 19 : Strong Ale", "value": "252" }, { "name": " 20 : Fruit Beer", "value": "143" }, { "name": " 21 : Spice/Herb/Vegetable Beer", "value": "286" }, { "name": " 22 : Smoke-Flavored and Wood-Aged Beer", "value": "289" }, { "name": " 23 : Specialty Beer", "value": "346" }, { "name": " 24 : Traditional Mead", "value": "84" }, { "name": " 25 : Melomel (Fruit Mead)", "value": "132" }, { "name": " 26 : Other Mead", "value": "103" }, { "name": " 27 : Standard Cider and Perry", "value": "96" }, { "name": " 28 : Specialty Cider and Perry", "value": "90" }]
+        },
+        {
+            "name": "2013",
+            "children": [{
+                    "name": "1 : Light Lager",
+                    "value": 203
+                },
+                {
+                    "name": "2 : Pilsner",
+                    "value": 209
+                },
+                {
+                    "name": "3 : European Amber Lager",
+                    "value": 159
+                },
+                {
+                    "name": "4 : Dark Lager",
+                    "value": 193
+                },
+                {
+                    "name": "5 : Bock",
+                    "value": 216
+                },
+                {
+                    "name": "6 : Light Hybrid Beer",
+                    "value": 343
+                },
+                {
+                    "name": "7 : Amber Hybrid Beer",
+                    "value": 156
+                },
+                {
+                    "name": "8 : English Pale Ale",
+                    "value": 211
+                },
+                {
+                    "name": "9 : Scottish and Irish Ale",
+                    "value": 273
+                },
+                {
+                    "name": "10 : American Ale",
+                    "value": 598
+                },
+                {
+                    "name": "11 : English Brown Ale",
+                    "value": 215
+                },
+                {
+                    "name": "12 : Porter",
+                    "value": 335
+                },
+                {
+                    "name": "13 : Stout",
+                    "value": 576
+                },
+                {
+                    "name": "14 : India Pale Ale (IPA)",
+                    "value": 584
+                },
+                {
+                    "name": "15 : German Wheat and Rye Beer",
+                    "value": 194
+                },
+                {
+                    "name": "16 : Belgian and French Ale",
+                    "value": 560
+                },
+                {
+                    "name": "17 : Sour Ale",
+                    "value": 295
+                },
+                {
+                    "name": "18 : Belgian Strong Ale",
+                    "value": 421
+                },
+                {
+                    "name": "19 : Strong Ale",
+                    "value": 277
+                },
+                {
+                    "name": "20 : Fruit Beer",
+                    "value": 181
+                },
+                {
+                    "name": "21 : Spice/Herb/Vegetable Beer",
+                    "value": 311
+                },
+                {
+                    "name": "22 : Smoke-Flavored and Wood-Aged Beer",
+                    "value": 384
+                },
+                {
+                    "name": "23 : Specialty Beer",
+                    "value": 359
+                },
+                {
+                    "name": "24 : Traditional Mead",
+                    "value": 78
+                },
+                {
+                    "name": "25 : Melomel (Fruit Mead)",
+                    "value": 119
+                },
+                {
+                    "name": "26 : Other Mead",
+                    "value": 93
+                },
+                {
+                    "name": "27 : Standard Cider and Perry",
+                    "value": 103
+                },
+                {
+                    "name": "28 : Specialty Cider and Perry",
+                    "value": 96
+                }
+            ]
+        },
+        {
+            "name": "2014",
+            "children": [{
+                    "name": "1 : Light Lager",
+                    "value": 179
+                },
+                {
+                    "name": "2 : Pilsner",
+                    "value": 182
+                },
+                {
+                    "name": "3 : European Amber Lager",
+                    "value": 161
+                },
+                {
+                    "name": "4 : Dark Lager",
+                    "value": 166
+                },
+                {
+                    "name": "5 : Bock",
+                    "value": 232
+                },
+                {
+                    "name": "6 : Light Hybrid Beer",
+                    "value": 379
+                },
+                {
+                    "name": "7 : Amber Hybrid Beer",
+                    "value": 164
+                },
+                {
+                    "name": "8 : English Pale Ale",
+                    "value": 270
+                },
+                {
+                    "name": "9 : Scottish and Irish Ale",
+                    "value": 310
+                },
+                {
+                    "name": "10 : American Ale",
+                    "value": 696
+                },
+                {
+                    "name": "11 : English Brown Ale",
+                    "value": 235
+                },
+                {
+                    "name": "12 : Porter",
+                    "value": 364
+                },
+                {
+                    "name": "13 : Stout",
+                    "value": 708
+                },
+                {
+                    "name": "14 : India Pale Ale (IPA)",
+                    "value": 852
+                },
+                {
+                    "name": "15 : German Wheat and Rye Beer",
+                    "value": 208
+                },
+                {
+                    "name": "16 : Belgian and French Ale",
+                    "value": 591
+                },
+                {
+                    "name": "17 : Sour Ale",
+                    "value": 286
+                },
+                {
+                    "name": "18 : Belgian Strong Ale",
+                    "value": 408
+                },
+                {
+                    "name": "19 : Strong Ale",
+                    "value": 241
+                },
+                {
+                    "name": "20 : Fruit Beer",
+                    "value": 208
+                },
+                {
+                    "name": "21 : Spice/Herb/Vegetable Beer",
+                    "value": 483
+                },
+                {
+                    "name": "22 : Smoke-Flavored and Wood-Aged Beer",
+                    "value": 403
+                },
+                {
+                    "name": "23 : Specialty Beer",
+                    "value": 463
+                },
+                {
+                    "name": "24 : Traditional Mead",
+                    "value": 71
+                },
+                {
+                    "name": "25 : Melomel (Fruit Mead)",
+                    "value": 127
+                },
+                {
+                    "name": "26 : Other Mead",
+                    "value": 87
+                },
+                {
+                    "name": "27 : Standard Cider and Perry",
+                    "value": 110
+                },
+                {
+                    "name": "28 : Specialty Cider and Perry",
+                    "value": 101
+                }
+            ]
+        }, {
+            "name": "2015",
+            "children": [{
+                    "name": "1 : Light Lager",
+                    "value": 174
+                },
+                {
+                    "name": "2 : Pilsner",
+                    "value": 193
+                },
+                {
+                    "name": "3 : European Amber Lager",
+                    "value": 166
+                },
+                {
+                    "name": "4 : Dark Lager",
+                    "value": 148
+                },
+                {
+                    "name": "5 : Bock",
+                    "value": 170
+                },
+                {
+                    "name": "6 : Light Hybrid Beer",
+                    "value": 331
+                },
+                {
+                    "name": "7 : Amber Hybrid Beer",
+                    "value": 157
+                },
+                {
+                    "name": "8 : English Pale Ale",
+                    "value": 217
+                },
+                {
+                    "name": "9 : Scottish and Irish Ale",
+                    "value": 268
+                },
+                {
+                    "name": "10 : American Ale",
+                    "value": 563
+                },
+                {
+                    "name": "11 : English Brown Ale",
+                    "value": 212
+                },
+                {
+                    "name": "12 : Porter",
+                    "value": 303
+                },
+                {
+                    "name": "13 : Stout",
+                    "value": 608
+                },
+                {
+                    "name": "14 : India Pale Ale (IPA)",
+                    "value": 666
+                },
+                {
+                    "name": "15 : German Wheat and Rye Beer",
+                    "value": 170
+                },
+                {
+                    "name": "16 : Belgian and French Ale",
+                    "value": 524
+                },
+                {
+                    "name": "17 : Sour Ale",
+                    "value": 288
+                },
+                {
+                    "name": "18 : Belgian Strong Ale",
+                    "value": 407
+                },
+                {
+                    "name": "19 : Strong Ale",
+                    "value": 209
+                },
+                {
+                    "name": "20 : Fruit Beer",
+                    "value": 192
+                },
+                {
+                    "name": "21 : Spice/Herb/Vegetable Beer",
+                    "value": 385
+                },
+                {
+                    "name": "22 : Smoke-Flavored and Wood-Aged Beer",
+                    "value": 350
+                },
+                {
+                    "name": "23 : Specialty Beer",
+                    "value": 410
+                },
+                {
+                    "name": "24 : Traditional Mead",
+                    "value": 82
+                },
+                {
+                    "name": "25 : Melomel (Fruit Mead)",
+                    "value": 133
+                },
+                {
+                    "name": "26 : Other Mead",
+                    "value": 115
+                },
+                {
+                    "name": "27 : Standard Cider and Perry",
+                    "value": 107
+                },
+                {
+                    "name": "28 : Specialty Cider and Perry",
+                    "value": 116
+                }
+            ]
+        },
+        {
+            "name": "2016",
+            "children": [{
+                    "name": "1 : Light Lager",
+                    "value": 224
+                },
+                {
+                    "name": "2 : Pilsner",
+                    "value": 215
+                },
+                {
+                    "name": "3 : European Amber Lager",
+                    "value": 180
+                },
+                {
+                    "name": "4 : Dark Lager",
+                    "value": 165
+                },
+                {
+                    "name": "5 : Bock",
+                    "value": 178
+                },
+                {
+                    "name": "6 : Light Hybrid Beer",
+                    "value": 280
+                },
+                {
+                    "name": "7 : Amber Hybrid Beer",
+                    "value": 149
+                },
+                {
+                    "name": "8 : English Pale Ale",
+                    "value": 216
+                },
+                {
+                    "name": "9 : Scottish & Irish Ale",
+                    "value": 238
+                },
+                {
+                    "name": "10 : American Pale Ale",
+                    "value": 307
+                },
+                {
+                    "name": "11 : Other American Ale",
+                    "value": 256
+                },
+                {
+                    "name": "12 : English Brown Ale",
+                    "value": 185
+                },
+                {
+                    "name": "13 : Porter",
+                    "value": 299
+                },
+                {
+                    "name": "14 : Stout",
+                    "value": 278
+                },
+                {
+                    "name": "15 : Strong Stout",
+                    "value": 340
+                },
+                {
+                    "name": "16 : American IPA",
+                    "value": 403
+                },
+                {
+                    "name": "17 : India Pale Ale (IPA)",
+                    "value": 456
+                },
+                {
+                    "name": "18 : German Wheat & Rye Beer",
+                    "value": 176
+                },
+                {
+                    "name": "19 : Belgian & French Ale",
+                    "value": 357
+                },
+                {
+                    "name": "20 : Sour Ale",
+                    "value": 249
+                },
+                {
+                    "name": "21 : Belgian Strong Ale",
+                    "value": 410
+                },
+                {
+                    "name": "22 : Strong Ale",
+                    "value": 241
+                },
+                {
+                    "name": "23 : Fruit Beer",
+                    "value": 173
+                },
+                {
+                    "name": "24 : Spice/Herb/Vegetable Beer",
+                    "value": 398
+                },
+                {
+                    "name": "25 : Smoke-flavored and Wood-aged Beer",
+                    "value": 183
+                },
+                {
+                    "name": "26 : Specialty Beer",
+                    "value": 810
+                },
+                {
+                    "name": "27 : Traditional Mead",
+                    "value": 89
+                },
+                {
+                    "name": "28 : Fruit Mead",
+                    "value": 155
+                },
+                {
+                    "name": "29 : Spice & Specialty Mead",
+                    "value": 123
+                },
+                {
+                    "name": "30 : Standard Cider & Perry",
+                    "value": 102
+                },
+                {
+                    "name": "31 : Specialty Cider & Perry",
+                    "value": 128
+                }
+            ]
+        },
+        {
+            "name": "2017",
+            "children": [{
+                    "name": "1 : Light Lager",
+                    "value": 89
+                },
+                {
+                    "name": "2 : Pale European Lager",
+                    "value": 232
+                },
+                {
+                    "name": "3 : Pilsner",
+                    "value": 201
+                },
+                {
+                    "name": "4 : Amber Lager",
+                    "value": 265
+                },
+                {
+                    "name": "5 : Dark Lager",
+                    "value": 170
+                },
+                {
+                    "name": "6 : Bock",
+                    "value": 156
+                },
+                {
+                    "name": "7 : English Pale Ale",
+                    "value": 247
+                },
+                {
+                    "name": "8 : Scottish & Irish Ale",
+                    "value": 285
+                },
+                {
+                    "name": "9 : American Pale Ale",
+                    "value": 358
+                },
+                {
+                    "name": "10 : Other Pale American Ale",
+                    "value": 256
+                },
+                {
+                    "name": "11 : Amber and Brown American Ale",
+                    "value": 324
+                },
+                {
+                    "name": "12 : English Brown Ale",
+                    "value": 179
+                },
+                {
+                    "name": "13 : Porter",
+                    "value": 327
+                },
+                {
+                    "name": "14 : Stout",
+                    "value": 319
+                },
+                {
+                    "name": "15 : Strong Stout",
+                    "value": 366
+                },
+                {
+                    "name": "16 : American IPA",
+                    "value": 436
+                },
+                {
+                    "name": "17 : Double IPA",
+                    "value": 173
+                },
+                {
+                    "name": "18 : Specialty IPA",
+                    "value": 324
+                },
+                {
+                    "name": "19 : German Wheat & Rye Beer",
+                    "value": 192
+                },
+                {
+                    "name": "20 : Belgian Ale",
+                    "value": 379
+                },
+                {
+                    "name": "21 : Strong Belgian & Trappist Ale",
+                    "value": 422
+                },
+                {
+                    "name": "22 : Sour Ale",
+                    "value": 240
+                },
+                {
+                    "name": "23 : Strong Ale",
+                    "value": 247
+                },
+                {
+                    "name": "24 : Fruit Beer",
+                    "value": 255
+                },
+                {
+                    "name": "25 : Spice/Herb/Vegetable Beer",
+                    "value": 492
+                },
+                {
+                    "name": "26 : Smoke-Flavored & Wood-Aged Beer",
+                    "value": 482
+                },
+                {
+                    "name": "27 : American Wild Ale",
+                    "value": 373
+                },
+                {
+                    "name": "28 : Specialty Beer",
+                    "value": 224
+                },
+                {
+                    "name": "29 : Traditional Mead",
+                    "value": 96
+                },
+                {
+                    "name": "30 : Fruit Mead",
+                    "value": 154
+                },
+                {
+                    "name": "31 : Spice & Specialty Mead",
+                    "value": 136
+                },
+                {
+                    "name": "32 : Standard Cider & Perry",
+                    "value": 85
+                },
+                {
+                    "name": "33 : Specialty Cider & Perry",
+                    "value": 134
+                }
+            ]
+        },
+        {
+            "name": "2018",
+            "children": [{
+                    "name": "1 : Pale American Beer",
+                    "value": 315
+                },
+                {
+                    "name": "2 : Pale European Beer",
+                    "value": 369
+                },
+                {
+                    "name": "3 : Pilsner",
+                    "value": 253
+                },
+                {
+                    "name": "4 : Amber European Beer",
+                    "value": 273
+                },
+                {
+                    "name": "5 : Dark European Lager",
+                    "value": 189
+                },
+                {
+                    "name": "6 : Strong European Lager",
+                    "value": 247
+                },
+                {
+                    "name": "7 : German Wheat Beer",
+                    "value": 200
+                },
+                {
+                    "name": "8 : Pale British Ale",
+                    "value": 234
+                },
+                {
+                    "name": "9 : Scottish & Irish Ale",
+                    "value": 210
+                },
+                {
+                    "name": "10 : American Pale Ale",
+                    "value": 309
+                },
+                {
+                    "name": "11 : Amber & Brown American Ale",
+                    "value": 266
+                },
+                {
+                    "name": "12 : Brown British Beer",
+                    "value": 314
+                },
+                {
+                    "name": "13 : British & Irish Stout",
+                    "value": 370
+                },
+                {
+                    "name": "14 : American Porter & Stout",
+                    "value": 288
+                },
+                {
+                    "name": "15 : Imperial Stout",
+                    "value": 221
+                },
+                {
+                    "name": "16 : American IPA",
+                    "value": 368
+                },
+                {
+                    "name": "17 : Specialty IPA (all)",
+                    "value": 346
+                },
+                {
+                    "name": "18 : Strong American Ale",
+                    "value": 271
+                },
+                {
+                    "name": "19 : Strong UK Ale",
+                    "value": 193
+                },
+                {
+                    "name": "20 : Saison",
+                    "value": 232
+                },
+                {
+                    "name": "21 : Belgian Ale",
+                    "value": 202
+                },
+                {
+                    "name": "22 : Strong Belgian Ale",
+                    "value": 351
+                },
+                {
+                    "name": "23 : European Sour Ale",
+                    "value": 207
+                },
+                {
+                    "name": "24 : Fruit Beer",
+                    "value": 291
+                },
+                {
+                    "name": "25 : Spiced Beer",
+                    "value": 398
+                },
+                {
+                    "name": "26 : Smoke-Flavored & Wood-Aged Beer",
+                    "value": 454
+                },
+                {
+                    "name": "27 : American WIld Ale",
+                    "value": 305
+                },
+                {
+                    "name": "28 : Specialty Beer",
+                    "value": 181
+                },
+                {
+                    "name": "29 : Traditional Mead",
+                    "value": 67
+                },
+                {
+                    "name": "30 : Fruit Mead",
+                    "value": 138
+                },
+                {
+                    "name": "31 : Spice & Specialty Mead",
+                    "value": 136
+                },
+                {
+                    "name": "32 : Standard Cider & Perry",
+                    "value": 89
+                },
+                {
+                    "name": "33 : Specialty Cider & Perry",
+                    "value": 129
+                }
+            ]
         }
     ]
 }
